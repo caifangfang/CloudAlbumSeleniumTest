@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="web automation test suite">
+	<test name="web automation test" verbose="2"> 
+ 		<classes> 
+ 			<class name="testngproject.CloudAlbumDownload"/>
+ 			<class name="testngproject.CommentAlbum"/>
+ 			<class name="testngproject.CreateAlbumAlert"/>
+ 			<class name="testngproject.CustomSort"/>
+ 			<class name="testngproject.DeleteAlbum"/>
+ 		</classes> 
+	</test> 
+ </suite>
