@@ -8,7 +8,7 @@ CreateAlbumAlert-创建新相册时名称为空弹出提示框
 CustomSort-相册自定义排序功能  
 DeleteAlbum-删除相册  
 
-1.libs中需要导入以下文件：selenium-server-standalone-2.52.0.jar  
+1.libs中需要导入以下文件：selenium-server-standalone-2.52.0.jar  
 2.所有脚本文件使用utf-8编码
 
 
